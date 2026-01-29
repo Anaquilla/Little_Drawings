@@ -2,7 +2,7 @@
 """
 Created on Wed Jan 28 21:36:11 2026
 
-@author: panai
+@author: anaquilla
 """
 
 import turtle
@@ -10,5 +10,6 @@ import turtle
 for i in range(36):
     turtle.forward(120)
     turtle.left(170)
+
 
 turtle.exitonclick()
